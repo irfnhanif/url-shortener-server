@@ -1,4 +1,4 @@
-package io.github.irfnhanif.urlshorterner.urlshortener.controller;
+package io.github.irfnhanif.urlshorterner.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.http.ResponseEntity;

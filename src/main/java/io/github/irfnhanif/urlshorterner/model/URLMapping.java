@@ -1,4 +1,4 @@
-package io.github.irfnhanif.urlshorterner.urlshortener.model;
+package io.github.irfnhanif.urlshorterner.model;
 
 import java.time.Instant;
 

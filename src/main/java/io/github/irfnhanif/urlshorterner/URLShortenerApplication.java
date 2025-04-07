@@ -1,4 +1,4 @@
-package io.github.irfnhanif.urlshorterner.urlshortener;
+package io.github.irfnhanif.urlshorterner;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
